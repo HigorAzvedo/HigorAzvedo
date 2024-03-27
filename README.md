@@ -1,4 +1,4 @@
-Olá! 👋
+### Olá! 👋
 
 ### Eu sou Higor, dev Front-end, 🎓 estudante de Engenharia da Computação. 
 <div align="start">
