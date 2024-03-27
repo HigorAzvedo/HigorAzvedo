@@ -1,8 +1,13 @@
 Olá! 👋
 
-Eu sou Higor, dev Front-end, 🎓 estudante de Engenharia da Computação. 
+### Eu sou Higor, dev Front-end, 🎓 estudante de Engenharia da Computação. 
+<div align="start">
+<p>
+<a href="https://www.linkedin.com/in/felipe-me"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
+</p>
+</div>
 
-## 🛠 &nbsp;Tecnologias
+Algumas tecnologias que estou aprendendo:
 
 ### 🎨 &nbsp;Front-end
 
