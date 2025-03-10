@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-### Eu sou Higor, desenvolvedor Frontend e 🎓 estudante de Engenharia da Computação. 
+### Eu sou Higor, dDesenvolvedor Frontend e estudante de Engenharia da Computação.🎓 
 <div align="start">
 <p>
 <a href="https://www.linkedin.com/in/higor-azevedo25" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
